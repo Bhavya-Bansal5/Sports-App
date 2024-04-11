@@ -1,0 +1,4 @@
+#Thu Apr 11 18:05:44 IST 2024
+base.0=/Users/aryanshkukreja/Sports App/sports_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
